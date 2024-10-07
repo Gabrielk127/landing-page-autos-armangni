@@ -1,4 +1,4 @@
-# Landing Page - Consultoria Gratuita Armangni
+# Landing Page - Consórcio Autos Armangni
 
 Uma landing page desenvolvida em Next.js, projetada para um negócio de consultoria.
 
